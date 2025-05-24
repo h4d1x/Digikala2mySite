@@ -1,0 +1,12 @@
+Step 1: Download the Model
+To download the model, visit the following link:
+https://huggingface.co/ClockZinc/IS-NET_pth/resolve/main/isnet-general-use.pth
+
+Step 2: Save the Model File
+Save the downloaded file to the following path:
+
+C:\Users\BojackHors3man\.u2net\u2net.onnx
+
+Troubleshooting
+If the .u2net folder does not exist:
+You can manually create it by going to C:\Users\BojackHors3man\ and creating a new folder named .u2net.
