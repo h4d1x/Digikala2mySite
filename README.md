@@ -22,7 +22,7 @@
 Boj4ckHoor3man 🐴 
 ```
 
-
+This script takes product images (e.g., from Digikala), removes their backgrounds, and places them into a user-defined background and watermark template — making them ready for use on the user's own website or store.
 
 🧠 Background Removal Model
 Uses the isnet-general-use model from the rembg package for cleaner edge detection.
